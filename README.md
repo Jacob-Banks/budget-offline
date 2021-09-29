@@ -31,7 +31,7 @@ Jacob Banks
 
 ## License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
+This project is [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/) licensed.<br />
 Copyright © 2021 [jacob-banks](https://github.com/jacob-banks)
 
 ## Contributing
